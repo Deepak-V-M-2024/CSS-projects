@@ -1,2 +1,1 @@
-yu
-css project
+css projects
